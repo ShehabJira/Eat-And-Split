@@ -16,6 +16,13 @@ This application, **Eat and Split**, is designed for splitting bills among frien
 
 The UI is divided into components, including a list of friends, forms for adding friends, and input fields for bill data. This modular design aligns with React's component-based architecture.
 
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+
 ---
 
 Enjoy an organized meal splitting experience!
